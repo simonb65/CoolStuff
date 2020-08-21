@@ -2,7 +2,7 @@ using System;
 using System.Linq;
 using NUnit.Framework;
 
-namespace PA.OpinionApplicator.RuleEvaluator.Tests.Unit.Application
+namespace Eval
 {
     public static class TestHelpers
     {
